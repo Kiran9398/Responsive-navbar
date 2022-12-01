@@ -1,0 +1,108 @@
+body {
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  #nav-bg{
+    background-color: rgba(11, 201, 234, 0.895);
+    color: white;
+  }
+  #navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #0863b7;
+    font-family: "Roboto";
+}
+  .login-form{
+    background-color:  #440fd5 !important;
+    background-size: cover;
+     padding-bottom: 10px !important;
+  }
+  .signup-box {
+    width: 360px;
+    height: 615px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    background-color: #440fd5;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 330px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    margin-top: 40px;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  
+  
